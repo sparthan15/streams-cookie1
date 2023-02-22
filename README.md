@@ -6,3 +6,7 @@
 	3. Given a List of employees, print the total Salary of all employees
 	4. Given a List of Employees, create a Map with Females and Males employees
 
+## How to run
+- Java 17+
+- Run unit test to see how it's working.
+
